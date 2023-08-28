@@ -3,7 +3,7 @@ import './Auction.css'
 
 const Auction = () => {
     return (
-        <div>Auction</div>
+        <div>Auction section</div>
     )
 }
 
